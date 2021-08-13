@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxioUK
-- 👀 I’m interested in VB6 go further and become VB7 (with x64 Compiler)
+- 👀 I’m interested in VB6 go further and become VB7 (with x64 Compiler), expectant about RADBasic abd TwinBasic...
 - 🌱 I’m currently learning other RAD (VFB5, Delphi)
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... axio.uk@gmail.com
